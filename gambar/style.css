@@ -1,0 +1,30 @@
+.panel-primary > .panel-heading {
+    font-style: bold;
+    color: rgb(254, 254, 254);
+    background-color:#3f51b5;
+    border-color: #3f51b5;
+}
+.footer-btm {
+    background: #337ab7;
+    padding: 0.5em 0;
+    text-align: center;
+}
+element.style #navbarheader {
+    background: #3f51b5;
+}
+.footer-btm {
+    background: #3f51b5;
+    padding: 0.5em 0;
+    text-align: center;
+}
+.copy-right {
+    background: #3f51b5;
+    text-align: center;
+    padding: 0.5em 0;
+}
+.top-header {
+    background-color: #3f51b5;
+    border-bottom: 0 none;
+    height: 36px;
+    line-height: 35px;
+}
